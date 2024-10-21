@@ -1,4 +1,4 @@
-# Musicify Fullstack 🎶
+# Musicify [Fullstack] 🎶
 
 Musicify is a full-stack web application that allows users to explore, upload, and interact with music. The app features a Spotify-like experience for discovering top artists and tracks. It integrates a Shopify-like frontend with a robust Django and PostgreSQL backend, and AWS for storage. The app uses Gunicorn for production and includes real-time data scraping from Spotify.
 
